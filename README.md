@@ -1,6 +1,6 @@
 # 📊 Daikibo Machine Breakdown Analysis
 
-This project is my irst Tableau dashboard, built to explore machine breakdown trends across multiple Daikibo factory locations using telemetry data from May 2021.
+This project is my first Tableau dashboard, built to explore machine breakdown trends across multiple Daikibo factory locations using telemetry data from May 2021.
 
 ---
 
